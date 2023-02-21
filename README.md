@@ -1,6 +1,14 @@
 ## Description
 
-Vault Nest mono repo
+Vault Nest mono repo.  
+I'm bored at home so why not do something for fun?
+
+Vault is meant to be a zero trust key value  store. 
+The idea is to be able to store sensitive information urelated to the source
+or the user. Every piece of information sent by a client should be encrypted
+and treated as if it could be exposed to the public.
+
+
 
 ## Installation
 
